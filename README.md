@@ -1,12 +1,11 @@
 <!-- 🔥 Gradient Divider (Thicker, Red + Colors) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/243847911-6f4a3f7d-1af9-4a27-bc5e-6c7a1d3f0e2b.gif" width="100%" height="8px"/>
-</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- 🔥 Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Shukla;AI+%26+Blockchain+Enthusiast;Cloud+%7C+ML+%7C+Full-Stack+Developer;Always+Learning+New+Tech+🚀"/>
 </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 🔥 Gradient Divider -->
 <p align="center">
